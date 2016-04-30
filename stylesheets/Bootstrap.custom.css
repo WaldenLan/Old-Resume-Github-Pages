@@ -1,20 +1,43 @@
 body{
     width:1349px;
-    height:900px;
+    height:auto;
+    margin:auto;
+    line-height:30pt;
 }
 div.maincontent{
     width:100%;
 }
-a#tag:hover{
+a.navbar-brand:hover, a.tag:hover{
     text-decoration: underline;
 }
+/*header is here*/
 div.tag_float{
     float:right;
-    margin-right:10%;
+    margin-right:15%;
+}
+div.tag_float li:hover{
+    text-decoration: underline;
 }
 div.navbar-header{
-    margin-left:10%;
+    margin-left:15%;
+    text-align: left;
 }
 div.outer{
-
+    margin: 0 15% 0 15%;
 }
+/*Intro part is here*/
+div.outer > img{
+    float:right;
+}
+div.introduction >p{
+    line-height: 22px;
+}
+
+/*endbar is here*/
+a._logo{
+    display: block;
+}
+div.outer.endbar{
+    margin-bottom: 3%;
+}
+
