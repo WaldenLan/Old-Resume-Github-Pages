@@ -33,7 +33,37 @@ div.introduction >p{
     line-height: 22px;
 }
 
-/*endbar is here*/
+/*maincontent is here*/
+div#photo_description{
+    margin: 0;
+    opacity: 0.8;
+    font-size: small;
+}
+span.lang{
+    font-weight: bold;
+}
+div.progress-bar.s{
+    background-color: #122b40;
+    opacity: 0.75;
+}
+span.software{
+    font-weight: bold;
+}
+h2#blog_title{
+    display: inline;
+}
+span#blog_description{
+    font-size: 110%;
+    opacity: 0.8;
+}
+div.bg_part._1{
+    margin-top: 3%;
+}
+div.bg_part{
+    margin-bottom: 2%;
+}
+
+    /*endbar is here*/
 a._logo{
     display: block;
 }
