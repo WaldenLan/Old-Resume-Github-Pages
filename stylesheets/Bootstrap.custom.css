@@ -25,6 +25,7 @@ div.navbar-header{
 div.outer{
     margin: 0 15% 0 15%;
 }
+
 /*Intro part is here*/
 div.outer > img{
     float:right;
@@ -63,7 +64,10 @@ div.bg_part{
     margin-bottom: 2%;
 }
 
-    /*endbar is here*/
+    /*Resume is here*/
+
+
+/*endbar is here*/
 a._logo{
     display: block;
 }
