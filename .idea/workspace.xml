@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8ae2e352-bfe6-42f2-99c7-59098991376f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resume.html" afterPath="$PROJECT_DIR$/Resume.html" />
     </list>
     <ignored path="WaldenLan.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +30,8 @@
           <file leaf-file-name="Resume.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Resume.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="115">
-                  <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+                <state relative-caret-position="184">
+                  <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -646,7 +645,7 @@
       <workItem from="1462026526741" duration="7390000" />
       <workItem from="1462115454455" duration="1633000" />
       <workItem from="1462117203036" duration="1276000" />
-      <workItem from="1462185311314" duration="161000" />
+      <workItem from="1462185311314" duration="211000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1461932435220</created>
@@ -690,15 +689,22 @@
       <option name="project" value="LOCAL" />
       <updated>1462118446720</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update personal resume in pdf version.">
+      <created>1462185504368</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1462185504368</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29037000" />
+    <option name="totallyTimeSpent" value="29087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -743,7 +749,8 @@
     <MESSAGE value="Update four sub-pages: Skills, Personal Blog, and About Me." />
     <MESSAGE value="Update four sub-pages: Homepage and Resume." />
     <MESSAGE value="Update some small bugs." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update some small bugs." />
+    <MESSAGE value="Update personal resume in pdf version." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update personal resume in pdf version." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -907,8 +914,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="184">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
