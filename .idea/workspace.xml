@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ae2e352-bfe6-42f2-99c7-59098991376f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VG100_report.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects.html" afterPath="$PROJECT_DIR$/Projects.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="WaldenLan.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,10 +50,10 @@
         <option value="$PROJECT_DIR$/Skills.html" />
         <option value="$PROJECT_DIR$/Personal Blog.html" />
         <option value="$PROJECT_DIR$/About Me.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/stylesheets/Bootstrap.custom.css" />
         <option value="$PROJECT_DIR$/Resume.html" />
         <option value="$PROJECT_DIR$/Projects.html" />
+        <option value="$PROJECT_DIR$/stylesheets/Bootstrap.custom.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -104,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -140,7 +140,6 @@
       </pane>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -608,7 +607,8 @@
       <workItem from="1463157794751" duration="6093000" />
       <workItem from="1463137784719" duration="2641000" />
       <workItem from="1463140560860" duration="307000" />
-      <workItem from="1463141040576" duration="232000" />
+      <workItem from="1463141040576" duration="273000" />
+      <workItem from="1463141406144" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1461932435220</created>
@@ -676,11 +676,17 @@
       <option name="project" value="LOCAL" />
       <updated>1463140836413</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update final report for VG100&#10;Update till 2016.5.13">
+      <created>1463141295568</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1463141295568</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48662000" />
+    <option name="totallyTimeSpent" value="49014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -734,7 +740,8 @@
     <MESSAGE value="Restore the zooming bugs. &#10;Update till 2016.5.13" />
     <MESSAGE value="Update VG100 project 2&#10;Update till 2016.5.13" />
     <MESSAGE value="Restore several bugs.&#10;Update till 2016.5.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Restore several bugs.&#10;Update till 2016.5.13" />
+    <MESSAGE value="Update final report for VG100&#10;Update till 2016.5.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update final report for VG100&#10;Update till 2016.5.13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -983,13 +990,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7096774">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Personal Blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.9354839">
@@ -1012,14 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/Bootstrap.custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17589577">
-          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42996743">
@@ -1028,6 +1020,22 @@
             <element signature="n#style#0;n#br#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#br#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/Bootstrap.custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.322581">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25081432">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
