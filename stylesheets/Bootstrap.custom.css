@@ -75,6 +75,19 @@ div.bg_part{
 }
 
 /*Resume is here*/
+h5.SJTU{
+    font-size: 120%;
+    font-weight: bold;
+}
+div.course{
+    margin-left: 5%;
+}
+div.course > p{
+    line-height: 160%;
+}
+.under{
+    color: red;
+}
 
 
 /*Projects part is here*/
