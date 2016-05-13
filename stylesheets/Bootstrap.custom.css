@@ -81,7 +81,13 @@ div.bg_part{
 p.bg_content{
     line-height: 150%;
 }
-
+div.img_MCM{
+    float: left;
+    display: inline-block;
+}
+div.img_MCM._1{
+    margin-left: 3%;
+}
 
 /*endbar is here*/
 a._logo{
@@ -90,6 +96,7 @@ a._logo{
 div.endbar_outline{
     border-top: 1px solid lightgrey;
     background-color: #f8f8f8;
+    padding-top: 1%;
 }
 div.outer.endbar{
     margin-bottom: 3%;
