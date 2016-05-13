@@ -61,6 +61,12 @@ span#blog_description{
     font-size: 110%;
     opacity: 0.8;
 }
+span.sub_description{
+    display: block;
+    float: right;
+    font-size: 110%;
+    opacity: 0.8;
+}
 div.bg_part._1{
     margin-top: 3%;
 }
@@ -68,7 +74,13 @@ div.bg_part{
     margin-bottom: 2%;
 }
 
-    /*Resume is here*/
+/*Resume is here*/
+
+
+/*Projects part is here*/
+p.bg_content{
+    line-height: 150%;
+}
 
 
 /*endbar is here*/
