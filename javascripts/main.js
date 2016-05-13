@@ -9,4 +9,8 @@ function getUpdateTime() {
 $(document).ready(function () {
     getyear();
     getUpdateTime();
+    var screen_width=window.screen.width;
+    $("body").css('width','screen_width');
 });
+
+
