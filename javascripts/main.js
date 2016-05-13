@@ -11,6 +11,11 @@ $(document).ready(function () {
     getUpdateTime();
     var screen_width=window.screen.width;
     $("body").css('width','screen_width');
+    $(function() {
+        $("#To_Top").click(function() {
+            $('body,html').animate({scrollTop: 0}, 200);
+        });
+    });
 });
 
 
