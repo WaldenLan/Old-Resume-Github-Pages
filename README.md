@@ -1,6 +1,4 @@
 # WaldenLan.github.io
-Personal Site
-Recently, this personal technical blog is deployed at the site: http://waldenlan.github.io. 
 
-You can view that through the link. 
-In the future, this site will be mapped to a new realm name.  
+This repository is the old version of my Github Pages, which serves to display my personal resume-related info.
+Thus, it won't be updated in the future.
